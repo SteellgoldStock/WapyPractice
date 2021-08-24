@@ -1,2 +1,2 @@
 # WapyPractice
-Former core project closed after beta - Wapy
+Core project closed after beta - Wapy
